@@ -1,3 +1,7 @@
+WARNING :warning: **THIS BRANCH** IS NO LONGER MAINTAINED
+
+---
+
 # Docker stack for Symfony projects
 
 For a *simpler* version visit: [Docker-for-Symfony-Lite](https://github.com/carlosas/docker-for-symfony-lite)
